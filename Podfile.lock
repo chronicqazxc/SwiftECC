@@ -1,0 +1,16 @@
+PODS:
+  - GRKOpenSSLFramework (1.0.2.20.2)
+
+DEPENDENCIES:
+  - GRKOpenSSLFramework
+
+SPEC REPOS:
+  trunk:
+    - GRKOpenSSLFramework
+
+SPEC CHECKSUMS:
+  GRKOpenSSLFramework: 01e3dd58a1d865111ac9439841119ff91a26e1f2
+
+PODFILE CHECKSUM: b63f40c62ecec05341a5ba570eedf6bef2a3267d
+
+COCOAPODS: 1.10.1
